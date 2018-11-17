@@ -59,6 +59,3 @@ def keyPressed():
     keyboard += 1 
     if keyboard == 2:
         keyboard = 0 
-        
-
-#quad(trx, try, tlx, tly, blx, bly, brx, bry)
